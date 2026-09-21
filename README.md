@@ -23,6 +23,12 @@ The ML training and prediction codes are compatible with Python 3 and the follow
 
 * scikit-learn (1.5.2)
 
+## Citation
+
+Khamdang, Chadawan, and Mengen Wang. "Machine learning insights into band gap properties in halide-based perovskites." Physical Chemistry Chemical Physics (2026).
+
+https://arxiv.org/abs/2606.17186
+
 ## Contact
 Mengen Wang, University of North Carolina at Chapel Hill (mewang@unc.edu)
 
