@@ -26,7 +26,7 @@ The ML training and prediction codes are compatible with Python 3 and the follow
 ## Citation
 
 Khamdang, Chadawan, and Mengen Wang. "Machine learning insights into band gap properties in halide-based perovskites." Physical Chemistry Chemical Physics (2026).
-
+https://pubs.rsc.org/cp/article/doi/10.1039/d6cp02399a/1299466/Machine-learning-insights-into-band-gap-properties
 https://arxiv.org/abs/2606.17186
 
 ## Contact
